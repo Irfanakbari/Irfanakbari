@@ -15,9 +15,9 @@ I'm student from University of North Sumatera, Computer Science
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=irfanakbari)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true&theme=cobalt)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfanakbari)  
 
