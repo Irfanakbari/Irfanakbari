@@ -1,122 +1,100 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Irfan%20Akbari%20Habibi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descAlignY=56&descSize=18" alt="Irfan Akbari Habibi" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/irfanakbari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+scalable+web+%26+mobile+systems;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Next.js+%E2%80%A2+Python;Enterprise+apps%2C+APIs+%26+Single+Sign-On;Turning+business+processes+into+software" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0b3b5c&height=170&text=Irfan%20Akbari%20Habibi&fontSize=44&fontColor=e6edf3&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descSize=17&descAlignY=68&animation=fadeIn" alt="Irfan Akbari Habibi" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://irfans.me"><img src="https://img.shields.io/badge/Website-irfans.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:irfanakbarihabibi18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://stackoverflow.com/users/18541826"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-f58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <img src="https://komarev.com/ghpvc/?username=irfanakbari&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Software Engineer** from Indonesia 🇮🇩 with a Computer Science background from **Universitas Sumatera Utara**.
-I build end-to-end systems — from APIs and authentication services to web dashboards and mobile apps — with a focus on
-**enterprise & manufacturing software** that makes day-to-day operations faster and more reliable.
-
-- 🏭 Building internal platforms: production tracking, pallet & delivery management, outgoing systems, and ERP (SAP Business One) reporting
-- 🔐 Designing **Single Sign-On**, auth services, and API gateways shared across multiple applications
-- 🤖 Exploring **AI-powered tools** — meeting assistants, chat bots, and LLM agents
-- 📱 Shipping cross-platform mobile apps with **Flutter** & **Kotlin**
-- ⚡ Fun fact: I genuinely love writing code
-
-```ts
-const irfan = {
-  role: "Full-Stack Software Engineer",
-  location: "Indonesia",
-  focus: ["Web Apps", "Backend & APIs", "Auth / SSO", "Mobile", "AI Tools"],
-  currentlyLearning: ["System Design", "DevOps & Cloud", "AI Agents"],
-  motto: "Ship it, measure it, improve it.",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,kotlin,java,cs,cpp&perline=12" alt="Languages" />
-</p>
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css,flutter,figma&perline=12" alt="Frontend and Mobile" />
-</p>
-
-**Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,laravel,mysql,postgres,redis,firebase&perline=12" alt="Backend and Database" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,github,githubactions,postman,vscode&perline=12" alt="DevOps and Tools" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/irfanakbari/pdf-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=pdf-toolkit&theme=tokyonight&hide_border=true" alt="pdf-toolkit" />
-  </a>
-  <a href="https://github.com/irfanakbari/vuteq-api-gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=vuteq-api-gateway&theme=tokyonight&hide_border=true" alt="vuteq-api-gateway" />
-  </a>
-  <a href="https://github.com/irfanakbari/halalens-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=halalens-api&theme=tokyonight&hide_border=true" alt="halalens-api" />
-  </a>
-  <a href="https://github.com/irfanakbari/nova-auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=nova-auth&theme=tokyonight&hide_border=true" alt="nova-auth" />
-  </a>
-  <a href="https://github.com/irfanakbari/python-fastapi-best-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=python-fastapi-best-practice&theme=tokyonight&hide_border=true" alt="python-fastapi-best-practice" />
-  </a>
-  <a href="https://github.com/irfanakbari/quote-generator-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=quote-generator-api&theme=tokyonight&hide_border=true" alt="quote-generator-api" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=560&lines=Enterprise+web+platforms+%26+internal+tools;APIs%2C+API+gateways+%26+Single+Sign-On;TypeScript+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Python;Clean+code.+Reliable+systems.+Real+impact." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=irfanakbari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/irfanakbarihabibi/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" height="26" /></a>&nbsp;
+  <a href="https://irfans.me"><img src="https://img.shields.io/badge/irfans.me-0d1117?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Website" height="26" /></a>&nbsp;
+  <a href="mailto:irfanakbarihabibi18@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" height="26" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/18541826"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=flat-square&logo=stackoverflow&logoColor=38bdf8" alt="Stack Overflow" height="26" /></a>
+</p>
+
+<br />
+
+### `whoami`
+
+I'm a **Full-Stack Software Engineer** based in Indonesia, building the systems that keep businesses running —
+from authentication services and API gateways to operational dashboards and mobile apps.
+I care about **clean architecture, maintainable code, and software that solves real operational problems.**
+
+<br />
+
+### `what I do`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧩 Web Platforms</h4>
+      Enterprise web apps & dashboards with <b>Next.js</b>, <b>React</b> and <b>Vue</b> — production tracking, delivery, inventory and reporting systems.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔐 Backend & Integration</h4>
+      Scalable APIs with <b>Node.js / NestJS</b> and <b>FastAPI</b>, <b>Single Sign-On</b>, API gateways, and ERP integration (<b>SAP Business One</b>).
+    </td>
+    <td width="33%" valign="top">
+      <h4>📱 Mobile & AI</h4>
+      Cross-platform apps with <b>Flutter</b> & <b>Kotlin</b>, plus AI-powered tools — LLM agents, meeting assistants and chat bots.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### `tech stack`
+
+<table>
+  <tr>
+    <td align="center" width="140"><sub><b>Languages</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,kotlin,java,cs&theme=dark" alt="Languages" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Frontend & Mobile</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,flutter,figma&theme=dark" alt="Frontend and Mobile" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Backend & Data</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,laravel,mysql,postgres,redis&theme=dark" alt="Backend and Data" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>DevOps & Tools</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,githubactions,postman&theme=dark" alt="DevOps and Tools" height="40" /></td>
+  </tr>
+</table>
+
+<br />
+
+### `featured work`
+
+<p align="center">
+  <a href="https://github.com/irfanakbari/pdf-toolkit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=pdf-toolkit&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="pdf-toolkit" /></a>
+  <a href="https://github.com/irfanakbari/vuteq-api-gateway"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=vuteq-api-gateway&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="vuteq-api-gateway" /></a>
+  <a href="https://github.com/irfanakbari/halalens-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=halalens-api&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="halalens-api" /></a>
+  <a href="https://github.com/irfanakbari/nova-auth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=nova-auth&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="nova-auth" /></a>
+</p>
+
+<br />
+
+### `github activity`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanakbari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanakbari&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=e6edf3&area=true&area_color=0b3b5c&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
----
-
-## 🤝 Let's Connect
-
-I'm open to collaboration, freelance projects, and interesting engineering conversations.
-Feel free to reach out via [email](mailto:irfanakbarihabibi18@gmail.com) or visit [irfans.me](https://irfans.me).
+<br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer" width="100%" />
+  <sub>Open to collaboration and interesting engineering problems — let's <a href="https://www.linkedin.com/in/irfanakbarihabibi/">connect</a>.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3b5c,100:0d1117&height=4" alt="" width="100%" />
 </p>
