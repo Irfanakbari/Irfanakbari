@@ -1,24 +1,100 @@
-### Hi there 👋, I'm Irfan Akbari Habibi
-I'm student from University of North Sumatera, Computer Science
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0b3b5c&height=170&text=Irfan%20Akbari%20Habibi&fontSize=44&fontColor=e6edf3&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descSize=17&descAlignY=68&animation=fadeIn" alt="Irfan Akbari Habibi" width="100%" />
+</p>
 
-- 🌱 I’m currently learning Codeigniter, Javascript Framework, Flutter, Java 
-- 📫 How to reach me: irfanakbarihabibi18@gmail.com 
-- ⚡ Fun fact: I Love Code 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=560&lines=Enterprise+web+platforms+%26+internal+tools;APIs%2C+API+gateways+%26+Single+Sign-On;TypeScript+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Python;Clean+code.+Reliable+systems.+Real+impact." alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/irfanakbarihabibi/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" height="26" /></a>&nbsp;
+  <a href="https://irfans.me"><img src="https://img.shields.io/badge/irfans.me-0d1117?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Website" height="26" /></a>&nbsp;
+  <a href="mailto:irfanakbarihabibi18@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=38bdf8" alt="Email" height="26" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/18541826"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=flat-square&logo=stackoverflow&logoColor=38bdf8" alt="Stack Overflow" height="26" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/irfanakbari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18541826)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](irfans.me)  
+<br />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+### `whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+I'm a **Full-Stack Software Engineer** based in Indonesia, building the systems that keep businesses running —
+from authentication services and API gateways to operational dashboards and mobile apps.
+I care about **clean architecture, maintainable code, and software that solves real operational problems.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=irfanakbari)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### `what I do`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true&theme=cobalt)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧩 Web Platforms</h4>
+      Enterprise web apps & dashboards with <b>Next.js</b>, <b>React</b> and <b>Vue</b> — production tracking, delivery, inventory and reporting systems.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔐 Backend & Integration</h4>
+      Scalable APIs with <b>Node.js / NestJS</b> and <b>FastAPI</b>, <b>Single Sign-On</b>, API gateways, and ERP integration (<b>SAP Business One</b>).
+    </td>
+    <td width="33%" valign="top">
+      <h4>📱 Mobile & AI</h4>
+      Cross-platform apps with <b>Flutter</b> & <b>Kotlin</b>, plus AI-powered tools — LLM agents, meeting assistants and chat bots.
+    </td>
+  </tr>
+</table>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfanakbari)  
+<br />
 
-![Profile views](https://gpvc.arturio.dev/irfanakbari)  
+### `tech stack`
+
+<table>
+  <tr>
+    <td align="center" width="140"><sub><b>Languages</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,kotlin,java,cs&theme=dark" alt="Languages" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Frontend & Mobile</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,flutter,figma&theme=dark" alt="Frontend and Mobile" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Backend & Data</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,laravel,mysql,postgres,redis&theme=dark" alt="Backend and Data" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>DevOps & Tools</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,gcp,linux,nginx,git,githubactions,postman&theme=dark" alt="DevOps and Tools" height="40" /></td>
+  </tr>
+</table>
+
+<br />
+
+### `featured work`
+
+<p align="center">
+  <a href="https://github.com/irfanakbari/pdf-toolkit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=pdf-toolkit&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="pdf-toolkit" /></a>
+  <a href="https://github.com/irfanakbari/vuteq-api-gateway"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=vuteq-api-gateway&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="vuteq-api-gateway" /></a>
+  <a href="https://github.com/irfanakbari/halalens-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=halalens-api&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="halalens-api" /></a>
+  <a href="https://github.com/irfanakbari/nova-auth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=nova-auth&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="nova-auth" /></a>
+</p>
+
+<br />
+
+### `github activity`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfanakbari&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanakbari&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfanakbari&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=e6edf3&area=true&area_color=0b3b5c&hide_border=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+<br />
+
+<p align="center">
+  <sub>Open to collaboration and interesting engineering problems — let's <a href="https://www.linkedin.com/in/irfanakbarihabibi/">connect</a>.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3b5c,100:0d1117&height=4" alt="" width="100%" />
+</p>
