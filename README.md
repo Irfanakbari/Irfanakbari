@@ -67,17 +67,6 @@ I care about **clean architecture, maintainable code, and software that solves r
 
 <br />
 
-### `featured work`
-
-<p align="center">
-  <a href="https://github.com/irfanakbari/pdf-toolkit"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=pdf-toolkit&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="pdf-toolkit" /></a>
-  <a href="https://github.com/irfanakbari/vuteq-api-gateway"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=vuteq-api-gateway&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="vuteq-api-gateway" /></a>
-  <a href="https://github.com/irfanakbari/halalens-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=halalens-api&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="halalens-api" /></a>
-  <a href="https://github.com/irfanakbari/nova-auth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanakbari&repo=nova-auth&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&border_radius=10" alt="nova-auth" /></a>
-</p>
-
-<br />
-
 ### `github activity`
 
 <p align="center">
